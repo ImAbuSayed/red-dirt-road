@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Red Dirt Road
+
+This log tracks the cryptographic history and versioning for the song **Red Dirt Road** (red-dirt-road).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-22T05:08:42.140981 | `v1` | `9a035a250ac397bba5385b27abb966565b4747c3ceba1f745ef2a59ed7135dd6` | `96d9d2f9ecdf3116eb229f352089abf9251bf3830ccc619ab1d61c0411199b90` | `2026-05-22_red-dirt-road-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

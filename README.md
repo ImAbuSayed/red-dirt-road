@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/red-dirt-road/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Red Dirt Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/red-dirt-road/) |
+| **Get License** | [Music Rights & Licensing for Red Dirt Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/red-dirt-road/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `9a035a250ac397bba5385b27abb966565b4747c3ceba1f745ef2a59ed7135dd6` |
 | **Timestamp** | May 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
