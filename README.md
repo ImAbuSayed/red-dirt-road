@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/red-dirt-road/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Red Dirt Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/red-dirt-road/) |
+| **Get License** | [License this song: Red Dirt Road](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/red-dirt-road/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We're kicking up dust in the heat of the night
+> Your body is glowing in the dashboard light
+> Got the engine humming and the radio low
+> Taking our sweet time on this red dirt road
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
